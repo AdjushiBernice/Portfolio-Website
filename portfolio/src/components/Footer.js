@@ -19,7 +19,7 @@ const footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>3rd close, Thera Peace Zone Estate.</p>
+              <p>7, Asajon way, off Lekki/Epe Expressway,</p>
               <p>Sangotedo Lagos Island.</p>
               <p>Nigeria.</p>
             </div>
