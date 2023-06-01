@@ -12,7 +12,7 @@ const WorkCard = () => {
              <img src="https://us.123rf.com/450wm/yavdat1/yavdat11804/yavdat1180400183/100440442-stethoscope-with-clipboard-and-laptop-on-desk.jpg?ver=6" alt="image" /> 
              <h2 className="project-title">HEALTH-Hero</h2>
              <div className="pro-details">
-                <p>This is a hospital management system. It's an application where registered doctor(s) can create and update patient records </p>
+                <p>This is a hospital management system. It's an application where registered doctor(s) can create patients health records. Doctors and easily update and delete patient details with the app.Some technologies used are typescript, SQlite,react and Express.js.   </p>
                 <div className="pro-btns">
                     <NavLink to="https://github.com/Iceprincess2/Health-Hero" className="btn">
                         View
